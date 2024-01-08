@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1621372631 source:c:\users\kais9\onedrive\desktop\codeblocks projects\fantasy game\hunter.cpp
+	"Hunter.h"
+
+1621372893 source:c:\users\kais9\onedrive\desktop\codeblocks projects\fantasy game\main.cpp
+	<iostream>
+	"Warrior.h"
+	"Hunter.h"
+
+1621372631 source:c:\users\kais9\onedrive\desktop\codeblocks projects\fantasy game\warrior.cpp
+	"Warrior.h"
+
+1621372288 source:c:\users\kais9\onedrive\desktop\codeblocks projects\fantasy game\character.cpp
+	"Character.h"
+
+1621372873 c:\users\kais9\onedrive\desktop\codeblocks projects\fantasy game\character.h
+	<string>
+	<iostream>
+
+1621372873 c:\users\kais9\onedrive\desktop\codeblocks projects\fantasy game\warrior.h
+	"Character.h"
+	<iostream>
+
+1621372873 c:\users\kais9\onedrive\desktop\codeblocks projects\fantasy game\hunter.h
+	"Character.h"
+	<iostream>
+
+1621439419 source:c:\users\kais9\onedrive\documents\github\fantasy-game-kai-sundararaj\fantasy game\character.cpp
+	"Character.h"
+	<time.h>
+	<stdlib.h>
+
+1621438646 c:\users\kais9\onedrive\documents\github\fantasy-game-kai-sundararaj\fantasy game\character.h
+	<string>
+	<iostream>
+
+1621381730 source:c:\users\kais9\onedrive\documents\github\fantasy-game-kai-sundararaj\fantasy game\hunter.cpp
+	"Hunter.h"
+
+1621381539 c:\users\kais9\onedrive\documents\github\fantasy-game-kai-sundararaj\fantasy game\hunter.h
+	"Character.h"
+	<iostream>
+
+1621438833 source:c:\users\kais9\onedrive\documents\github\fantasy-game-kai-sundararaj\fantasy game\warrior.cpp
+	"Warrior.h"
+
+1621380778 c:\users\kais9\onedrive\documents\github\fantasy-game-kai-sundararaj\fantasy game\warrior.h
+	"Character.h"
+	<iostream>
+
+1621438750 source:c:\users\kais9\onedrive\documents\github\fantasy-game-kai-sundararaj\fantasy game\main.cpp
+	<iostream>
+	"Warrior.h"
+	"Hunter.h"
+	<windows.h>
+
+1621566414 source:c:\users\kais9\onedrive\documents\github\fantasygame-kai-sundararaj\fantasy game\hunter.cpp
+	"Hunter.h"
+
+1621566407 c:\users\kais9\onedrive\documents\github\fantasygame-kai-sundararaj\fantasy game\hunter.h
+	"Character.h"
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+
+1621566414 c:\users\kais9\onedrive\documents\github\fantasygame-kai-sundararaj\fantasy game\character.h
+	<string>
+	<iostream>
+
+1621566414 source:c:\users\kais9\onedrive\documents\github\fantasygame-kai-sundararaj\fantasy game\main.cpp
+	<iostream>
+	"Warrior.h"
+	"Hunter.h"
+	<windows.h>
+
+1621566414 c:\users\kais9\onedrive\documents\github\fantasygame-kai-sundararaj\fantasy game\warrior.h
+	"Character.h"
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+
+1621566414 source:c:\users\kais9\onedrive\documents\github\fantasygame-kai-sundararaj\fantasy game\warrior.cpp
+	"Warrior.h"
+
+1621566414 source:c:\users\kais9\onedrive\documents\github\fantasygame-kai-sundararaj\fantasy game\character.cpp
+	"Character.h"
+	<time.h>
+	<stdlib.h>
+
+1621566414 source:c:\users\kais9\onedrive\documents\github\fantasygame-kai-sundararaj\fantasy game\warrior2.cpp
+	"Warrior.h"
+
+1621566414 source:c:\users\kais9\onedrive\documents\github\fantasygame-kai-sundararaj\fantasy game\hunter2.cpp
+	"Hunter.h"
+
+1621566414 source:c:\users\kais9\onedrive\documents\github\fantasygame-kai-sundararaj\fantasy game\hunter3.cpp
+	"Hunter.h"
+
+1621566414 source:c:\users\kais9\onedrive\documents\github\fantasygame-kai-sundararaj\fantasy game\warrior3.cpp
+	"Warrior.h"
+
